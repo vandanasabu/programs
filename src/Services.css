@@ -1,0 +1,9 @@
+.container1{
+    backgroundImage: "url(bgs.jpeg)";
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	font-size: 25px;
+	font-family: fantasy;
+    margin-top: 105 px;
+}
